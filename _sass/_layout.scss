@@ -40,7 +40,7 @@ input[type="reset"]                             { font-family:'mavenpro'; }
 /***********************************************
 Typography
 ***********************************************/
-body                                            { background-color:#F3F3F3; height:100%; font-family:'mavenpro'; letter-spacing:-0.5px; overflow-x:hidden; transition:all 0.2s cubic-bezier(0.33, 0, 0.2, 1) 0s; -moz-transition:all 0.2s cubic-bezier(0.33, 0, 0.2, 1) 0s; -webkit-transition:all 0.2s cubic-bezier(0.33, 0, 0.2, 1) 0s; -o-transition:all 0.2s cubic-bezier(0.33, 0, 0.2, 1) 0s; }
+body                                            { background-color:#F3F3F3; height:100%; font-family:'mavenpro'; letter-spacing:-0.5px; overflow-x:hidden; }
 
 header                                          { margin:0 50px; padding:15px 0; border-bottom:1px solid #D4D6D8; text-align:center; }
 header .icon                                    { height:33px; fill:#E74C3C; }
