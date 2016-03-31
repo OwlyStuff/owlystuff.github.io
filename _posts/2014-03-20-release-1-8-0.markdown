@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "v1.8.0"
+date:   2014-03-20
+type: release
+release_version: 1.8.0
+intro: Release v1.8.0 published
+---
+A few small updates to this point
+
+ 1. Found an interesting article? You can now share via Twitter, G+, Tumblr and E-mail using the links in the bottom of the article
+ 1. When sharing to tumblr, you now get to choose what type of post to create.
+ 1. "N" keyboard shortcut opens the new feed sidebar.
+ 1. You can now mark all items in a feed as read using the 'tick' in the top right when viewing an individual feed
+ 1. Fixes a bug in the formatting of the "change folder" dropdown in feed views.

@@ -1,27 +1,8 @@
-<header class="site-header">
-
-  <div class="wrapper">
-
-    <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
-
-    <nav class="site-nav">
-      <a href="#" class="menu-icon">
-        <svg viewBox="0 0 18 15">
-          <path fill="#424242" d="M18,1.484c0,0.82-0.665,1.484-1.484,1.484H1.484C0.665,2.969,0,2.304,0,1.484l0,0C0,0.665,0.665,0,1.484,0 h15.031C17.335,0,18,0.665,18,1.484L18,1.484z"/>
-          <path fill="#424242" d="M18,7.516C18,8.335,17.335,9,16.516,9H1.484C0.665,9,0,8.335,0,7.516l0,0c0-0.82,0.665-1.484,1.484-1.484 h15.031C17.335,6.031,18,6.696,18,7.516L18,7.516z"/>
-          <path fill="#424242" d="M18,13.516C18,14.335,17.335,15,16.516,15H1.484C0.665,15,0,14.335,0,13.516l0,0 c0-0.82,0.665-1.484,1.484-1.484h15.031C17.335,12.031,18,12.696,18,13.516L18,13.516z"/>
-        </svg>
-      </a>
-
-      <div class="trigger">
-        {% for my_page in site.pages %}
-          {% if my_page.title %}
-          <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
-          {% endif %}
-        {% endfor %}
-      </div>
-    </nav>
-
-  </div>
-
+<header>
+    <a href="{{ site.baseurl }}/"><svg aria-hidden="true" class="icon icon--type-owly" width="64" height="64" role="img" version="1.1" viewBox="0 0 64 64"><path d="M48.7 31.2c3.6-3.2 5-7.2 5-11.8 0-7.2-2-13.4-6.6-17.4 0 0-5.8 7.6-15.4 7.6S16.5 2 16.5 2c-4.6 4-6.6 10.2-6.6 17.4 0 4.6 1.4 8.8 5.4 11.8 -4 3.4-5.6 7.6-5.6 12.8 0 5.4 2.4 9.4 6.6 12.8 0.4-1.2 1.6-3.6 2.8-4.2 3.6 5.6 12.8 9.4 12.8 9.4s9.2-3.8 13-9.6c1 0.6 2.4 3.2 2.8 4.2 4.2-3.6 6.6-7.6 6.6-12.8C54.3 38.8 52.5 34.6 48.7 31.2zM20.5 25c-2 0-3.8-1.6-3.8-3.8 0-2 1.6-3.8 3.8-3.8 2 0 3.8 1.6 3.8 3.8S22.7 25 20.5 25zM42.9 25c-2 0-3.8-1.6-3.8-3.8 0-2 1.6-3.8 3.8-3.8 2 0 3.8 1.6 3.8 3.8S45.1 25 42.9 25z"/></svg></a>
+    {% for my_page in site.pages %}
+      {% if my_page.title %}
+      <a class="page-link" href="{{ my_page.url | prepend: site.baseurl }}">{{ my_page.title }}</a>
+      {% endif %}
+    {% endfor %}
 </header>

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Faster"
+date:   2015-07-14
+type: platform
+release_version: 1.10.0
+intro: We have just pushed out a new release that increases performance across the board.
+---
+By optimising some of the data cleanup processes that happen in the background, we have increased the performance of the OwlyReader.
+
+Once you have read an item, and as long as it's not in your saved items, we periodically delete them.  
+We have made the process more aggressive, resulting in a significant boost in speed of the web application.
