@@ -7,7 +7,7 @@ release_version: 1.10.0
 intro: We have just pushed out a new release that increases performance across the board.
 ---
 
-![Lightspeed](img/increased-performance.jpg)
+![Increased Performance](img/increased-performance.jpg)
 
 ## By optimising some of the data cleanup processes that happen in the background, we have increased the performance of the OwlyReader.
 

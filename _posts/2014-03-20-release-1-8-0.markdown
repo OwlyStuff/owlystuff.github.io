@@ -6,10 +6,24 @@ type: release
 release_version: 1.8.0
 intro: Release v1.8.0 published
 ---
-A few small updates to this point
 
- 1. Found an interesting article? You can now share via Twitter, G+, Tumblr and E-mail using the links in the bottom of the article
- 1. When sharing to tumblr, you now get to choose what type of post to create.
- 1. "N" keyboard shortcut opens the new feed sidebar.
- 1. You can now mark all items in a feed as read using the 'tick' in the top right when viewing an individual feed
- 1. Fixes a bug in the formatting of the "change folder" dropdown in feed views.
+![Social Sharing](img/social-sharing.jpg)
+
+## A few small updates to this point
+
+Up until now you could only tell all your friends about the cool posts you have in Owly but today we aim to fix this by adding social sharing links for all posts. Also in this release you will find a few other cool things like shortcuts to add a new feed and mark all as read, your welcome!
+
+### Found an interesting article?
+
+ * Found an interesting article? You can now share via Twitter, Google+, Tumblr and E-mail using the links in the bottom of the article
+ * When sharing to tumblr, you now get to choose what type of post to create.
+
+### Shortcuts
+ 
+ * "N" keyboard shortcut opens the new feed sidebar.
+
+### Mark all as read
+ * You can now mark all items in a feed as read using the 'tick' in the top right when viewing an individual feed
+
+### Is this going to be a stand-up fight, sir, or another bug hunt?
+ * Fixes a bug in the formatting of the "change folder" dropdown in feed views.
