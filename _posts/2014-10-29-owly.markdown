@@ -1,0 +1,16 @@
+---
+layout: post
+title:  "New Challenger Approaching"
+date:   2014-10-29
+type: platform
+release_version: 1.10.0
+intro: Our designers have been hard at work over the past few weeks and look what we've created.
+---
+
+![Introducing Owly](img/owly.jpg)
+
+## Introducing Owly
+
+Every awesome company needs a mascot such as Android's Android, Clippy the Paperclip, Github's Octocat, Linux's penguin Tux and Ember JS's Tomster and with them in mind we created the fun lovin, coffee drinking hipster that is Owly!
+
+We had loads of fun designing him with all kinds of accessories like hats, bubble pipes and even a strongman mustache, which were sure you will get to see in the future, but for now were happy to say we found our owl.
