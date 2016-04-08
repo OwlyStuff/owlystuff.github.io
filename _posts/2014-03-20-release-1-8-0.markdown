@@ -13,9 +13,9 @@ intro: Release v1.8.0 published
 
 Up until now you could only tell all your friends about the cool posts you have in Owly but today we aim to fix this by adding social sharing links for all posts. Also in this release you will find a few other cool things like shortcuts to add a new feed and mark all as read, your welcome!
 
-### Found an interesting article?
+### Read an interesting article?
 
- * Found an interesting article? You can now share via Twitter, Google+, Tumblr and E-mail using the links in the bottom of the article
+ * You can now share via Twitter, Google+, Tumblr and E-mail using the links in the bottom of the article
  * When sharing to tumblr, you now get to choose what type of post to create.
 
 ### Shortcuts
