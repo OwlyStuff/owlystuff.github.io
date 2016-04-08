@@ -40,8 +40,14 @@ input[type="reset"]                             { font-family:'mavenpro'; }
 /***********************************************
 Typography
 ***********************************************/
-body                                            { background-color:#F3F3F3; height:100%; font-family:'mavenpro'; font-size:16px; line-height:20px; overflow-x:hidden; display:flex; min-height:100vh; flex-direction:column; }
-h2                                              { margin:0 0 20px; font-size:20px; line-height:24px; font-weight:bold; }
+body                                            { background-color:#F3F3F3; height:100%; font-family:'mavenpro'; font-size:15px; line-height:17px; overflow-x:hidden; display:flex; min-height:100vh; flex-direction:column; }
+h2                                              { margin:0 0 20px; font-size:20px; line-height:24px; font-weight:bold; color:#444; }
+h3                                              { margin:0 0 10px; font-size:16px; line-height:20px; font-weight:bold; color:#666; }
+
+p + h3                                          { margin-top:40px; }
+
+ul li                                           { font-size:14px; line-height:16px; color:#999; }
+h3 + ul                                         { margin-top:0; }
 
 .row                                            { display:flex; flex:1 0 auto; }
 
