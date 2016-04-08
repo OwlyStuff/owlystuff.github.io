@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "New Challenger Approaching"
-date:   2014-10-29
+date:   2015-1-16
 type: platform
 release_version: 1.10.0
 intro: Our designers have been hard at work over the past few weeks and look what we've created.
