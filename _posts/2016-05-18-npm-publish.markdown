@@ -13,7 +13,7 @@ intro: The Amazium CSS framework is now published on npm, let us show you how we
 With a small amount of setup, you can build, tag and release new versions of your code with a simple;
 
 ```
-npm version minor && git push owlystuff --tags
+npm version minor && git push owlystuff master --tags
 ```
 
 # The Detail
@@ -89,7 +89,7 @@ Running any of those commands performs a few things for us;
 All that leaves us to do, is push the new tag to GitHub.
 
 ```
-git push owlystuff --tags
+git push owlystuff master --tags
 ```
 
 At this point, travis takes over of building and publishing to npm
@@ -136,3 +136,5 @@ deploy:
       repo: OwlyStuff/amazium
       tags: true
 ```
+
+All done, now check out your [latest release on npm](https://www.npmjs.com/package/amazium)!
