@@ -138,3 +138,11 @@ deploy:
 ```
 
 All done, now check out your [latest release on npm](https://www.npmjs.com/package/amazium)!
+
+
+## Related docs
+
+ * [https://docs.travis-ci.com/user/deployment/](https://docs.travis-ci.com/user/deployment/)
+ * [https://docs.travis-ci.com/user/deployment/releases](https://docs.travis-ci.com/user/deployment/releases)
+ * [https://docs.travis-ci.com/user/encryption-keys/](https://docs.travis-ci.com/user/encryption-keys/)
+ * [https://developer.github.com/v3/repos/releases/#create-a-release](https://developer.github.com/v3/repos/releases/#create-a-release)
