@@ -8,7 +8,7 @@ intro: The Amazium CSS framework is now published on npm, let us show you how we
 
 ![NPM Travis and GitHub Logos](img/npm-travis-github-logos.jpg)
 
-## tl;dr;
+## tl;dr
 
 With a small amount of setup, you can build, tag and release new versions of your code with a simple;
 
