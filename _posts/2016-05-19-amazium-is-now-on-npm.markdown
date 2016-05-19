@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Amazium is now published on npm"
-date:   2016-05-18
+date:   2016-05-19
 type: platform
 intro: The Amazium CSS framework is now published on npm, let us show you how we keep deployment simple.
 ---
