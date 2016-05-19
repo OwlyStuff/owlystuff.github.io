@@ -2,12 +2,12 @@
 layout: post
 title:  "Faster"
 date:   2015-07-14
-type: platform
+type: tech
 release_version: 1.10.0
 intro: We have just pushed out a new release that increases performance across the board.
 ---
 
-![Increased Performance](img/increased-performance.jpg)
+![Increased Performance](img/increased-performance.png)
 
 ## Optimised cleanup
 
