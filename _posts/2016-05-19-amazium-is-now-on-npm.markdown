@@ -1,12 +1,10 @@
 ---
 layout: post
-title:  "npm publish"
+title:  "Amazium is now published on npm"
 date:   2016-05-18
 type: platform
 intro: The Amazium CSS framework is now published on npm, let us show you how we keep deployment simple.
 ---
-
-![NPM Travis and GitHub Logos](img/npm-travis-github-logos.jpg)
 
 ## tl;dr
 
@@ -15,6 +13,8 @@ With a small amount of setup, you can build, tag and release new versions of you
 ```
 npm version minor && git push owlystuff master --tags
 ```
+
+![NPM, Travis and GitHub](img/npm-travis-github.png)
 
 # The Detail
 
