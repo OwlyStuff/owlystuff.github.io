@@ -7,10 +7,10 @@ release_version: 1.10.0
 intro: Our designers have been hard at work over the past few weeks and look what we've created.
 ---
 
-![Introducing Owly](img/owly.jpg)
+![Introducing Owly](img/owly.png)
 
 ## Introducing Owly
 
-Every awesome company needs a mascot, such as Android's Android, Clippy the Paperclip, Github's Octocat, Linux's penguin Tux and Ember JS's Tomster. And with them in mind we created the fun lovin', coffee drinking hipster that is Owly!
+Every awesome company has a mascot such as Android's Android, Clippy the Paperclip, Github's Octocat, Linux's penguin Tux and Ember JS's Tomster, and when we came to build The Reader we found that we we're using an owl for the logo and out of this small shape came the fun lovin', coffee drinking hipster that is Owly!
 
 We had loads of fun designing him with all kinds of accessories, like hats, bubble pipes and even a strongman mustache, which we're sure you will get to see in the future, but for now we're happy to say we have found our owl.
