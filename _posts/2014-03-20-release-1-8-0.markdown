@@ -7,7 +7,7 @@ release_version: 1.8.0
 intro: Release v1.8.0 published
 ---
 
-![Social Sharing](img/social-sharing.jpg)
+![Social Sharing](img/social-sharing.png)
 
 ## A few small updates to this point
 
@@ -19,7 +19,7 @@ Up until now you could only tell all your friends about the cool posts you have 
  * When sharing to tumblr, you now get to choose what type of post to create.
 
 ### Shortcuts
- 
+
  * "N" keyboard shortcut opens the new feed sidebar.
 
 ### Mark all as read
