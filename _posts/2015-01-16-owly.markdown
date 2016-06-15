@@ -3,7 +3,6 @@ layout: post
 title:  "New Challenger Approaching"
 date:   2015-01-16
 type: process
-release_version: 1.10.0
 intro: Our designers have been hard at work over the past few weeks and look what we've created.
 ---
 

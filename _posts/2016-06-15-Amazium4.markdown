@@ -1,35 +1,34 @@
 ---
 layout: post
-title:  "Amazium 4.0.0"
+title:  "Amazium 4 Release"
 date:   2016-06-15
 type: release
-release_version: 1.10.0
-intro: Well its been a long time coming but Amazium v4 is now available.
+release_version: 4.0.0
+intro: It's been a long time coming, but Amazium v4 is now available.
 ---
 
-![Introducing Owly](img/amazium4.png)
+![Amazium 4](img/amazium4.png)
 
-## Amazium 4.0.0
-Well its been a long time since we rolled out Amazium v3 and in that time so much has changed like support for Flexbox and the rise of SCSS. With the latest version of Amazium we hope to enabled developers to build responsive sites faster and easier than ever before, like using the new Flexbox grid system or the new BEM class naming.
+Well it's been a long time since we rolled out Amazium v3, and in that time so much has changed! Like support for Flexbox and the rise of SCSS. With the latest version of Amazium we hope to enable developers to build responsive sites faster and easier than ever before, like using the new flexbox based grid system or the new BEM class naming.
 
 ### General
- * BEM - It seem so clear now that this is a much better approche to naming elements for a project. Using the BEM approch creates extendable and reusable interface components and as most projects use the same components. Code reuse significantly reduces price and time of development.
- * UI Colors - Update to most of Amaziums color range to also include shades of Grey & Black.
+ * BEM - It seems so clear now that this is a much better approach for naming elements within a project. Using BEM creates extendable and reusable interface components, and as most projects use the same components, code reuse significantly reduces price and time of development.
+ * UI Colors - Update to most of Amaziums' color range to also include Black and shades of Grey.
  * Typography - We have made small amends to the font-size of headings and the addition of text overrides like: font-size, line-height and color.
  * Icons - v4 also includes support for SVG icons like: size, color and position.
 
 ### Grid
- * Naming - Hyphens are the new Underscores or at least as we use hyphens for most if not all naming it felt a good idea to do the same for the Amazium grid classes.
- * Flexbox - As global support for the magical Flexbox is over 94% we felt it was time to make the move and in doing so we can do so much more than before in terms of alignment, spacing, ordering and with very little additional code added.
- * Fluid Grids - As we said above Amazium 4 is now using Flexbox and as a result we found we didnt need 2 version of the grid system (1200px & 100%). All we needed to do was use a modifirer on the .row class called .row--width-fluid which make the default 1200px row 100%.
- * Grid parameters - Yes finally you can set your own parameters as Amazium now uses awesome SCSS to do its grid system wich gives you theoption to set grid width, column amount and gutter width.
+ * Naming - Hyphens are the new underscores, or at least, as we use hyphens for most if not all naming it felt a good idea to do the same for the Amazium grid classes.
+ * Flexbox - As global support for the magical Flexbox is over 94% we felt it was time to make the move, and in doing so we can do much more than before in terms of alignment, spacing, ordering and with very little additional code added.
+ * Fluid Grids - As we said above, Amazium 4 is now using Flexbox and as a result we found we didn't need 2 versions of the grid system (1200px & 100%). All we needed to do was use a modifier on the .row class called .row--width-fluid which make the default 1200px row 100%.
+ * Grid parameters - Yes finally you can set your own parameters as Amazium now uses awesome SCSS to do its grid system which gives you the option to set grid width, column amount and gutter width.
 
 ### Forms
  * Form overrides - You can now easily override the font and border color of your forms.
  * Fieldsets, Labels & Inputs - Updates styling to allow for easier overrides, Adds border color on focus.
  * Adds support for label help text, just add a paragrah block after a label and you have some nice formatted help text.
  * Inline form elements - Added is a new set of classes to allow for multible form elements inline.
- * Input witdhs - New classes for making your inputs from 10% up to 90% with 100% being the default. 
+ * Input witdhs - New classes for making your inputs from 10% up to 90% with 100% being the default.
  * Validation - Removes old styling of the message block with a newer BEM freindly version.
  * Disabled - New styling for disabled inputs added.
  * Radio & Checkboxes - Updates for both with more options like checkbox swicthes and Radio groups.
@@ -42,22 +41,18 @@ Well its been a long time since we rolled out Amazium v3 and in that time so muc
  * Styles - You can now chose if your button should be a ghost or a link.
  * States - New loading, success and failure slates have been added for buttons.
 
- ## Community Shoutouts
+## Community Shoutouts
  A massive thankyou you some awesome people is needed for making v4 so great.
 
- * Chris Sedlmayr (https://github.com/catchamonkey) - The man who made it possible for so many cool things like Gulp, Travis, NPM packaging. (Pull request #68, #63 and #62)
- * Shahrukh Omar (https://github.com/shahrukhomar) - The constant voice in our head telling us things should be cleaner and simpler. (Pull request #64)
- * Robert Paulsen (https://github.com/retober) - Has single handely made it posible for adjustment of grid parameters (Pull request #80).
+ * Chris Sedlmayr (https://github.com/catchamonkey) - The man who made it possible for so many cool things like Gulp, Travis, NPM packaging. (Pull requests [#68][68], [#63][63] and [#62][62])
+ * Shahrukh Omar (https://github.com/shahrukhomar) - The constant voice in our head telling us things should be cleaner and simpler. (Pull request [#64][64])
+ * Robert Paulsen (https://github.com/retober) - Has single handedly made it possible for adjustment of grid parameters (Pull request [#80][80]).
 
-## The futrue
-We are working on making Amasium better than ever and will be updating the support website very soon so keep an eye out, until next time Amazium team out.
+## The future
+We are working on making Amazium better than ever and will be updating the support website very soon so keep an eye out, until next time, Amazium team out!
 
-
-
-
-
-
-
-
-
-
+[62]: https://github.com/OwlyStuff/amazium/pull/62
+[63]: https://github.com/OwlyStuff/amazium/pull/63
+[64]: https://github.com/OwlyStuff/amazium/pull/64
+[68]: https://github.com/OwlyStuff/amazium/pull/68
+[80]: https://github.com/OwlyStuff/amazium/pull/80
