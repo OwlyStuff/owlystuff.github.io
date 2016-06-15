@@ -11,6 +11,14 @@ intro: It's been a long time coming, but Amazium v4 is now available.
 
 Well it's been a long time since we rolled out Amazium v3, and in that time so much has changed! Like support for Flexbox and the rise of SCSS. With the latest version of Amazium we hope to enable developers to build responsive sites faster and easier than ever before, like using the new flexbox based grid system or the new BEM class naming.
 
+Download the new version now
+
+<https://github.com/OwlyStuff/amazium/releases/latest>
+
+or install it using NPM
+
+<https://github.com/OwlyStuff/amazium#install-amazium>
+
 ### General
  * BEM - It seems so clear now that this is a much better approach for naming elements within a project. Using BEM creates extendable and reusable interface components, and as most projects use the same components, code reuse significantly reduces price and time of development.
  * UI Colors - Update to most of Amaziums' color range to also include Black and shades of Grey.
@@ -44,9 +52,9 @@ Well it's been a long time since we rolled out Amazium v3, and in that time so m
 ## Community Shoutouts
  A massive thankyou you some awesome people is needed for making v4 so great.
 
- * Chris Sedlmayr (https://github.com/catchamonkey) - The man who made it possible for so many cool things like Gulp, Travis, NPM packaging. (Pull requests [#68][68], [#63][63] and [#62][62])
- * Shahrukh Omar (https://github.com/shahrukhomar) - The constant voice in our head telling us things should be cleaner and simpler. (Pull request [#64][64])
- * Robert Paulsen (https://github.com/retober) - Has single handedly made it possible for adjustment of grid parameters (Pull request [#80][80]).
+ * Chris Sedlmayr (<https://github.com/catchamonkey>) - The man who made it possible for so many cool things like Gulp, Travis, NPM packaging. (Pull requests [#68][68], [#63][63] and [#62][62])
+ * Shahrukh Omar (<https://github.com/shahrukhomar>) - The constant voice in our head telling us things should be cleaner and simpler. (Pull request [#64][64])
+ * Robert Paulsen (<https://github.com/retober>) - Has single handedly made it possible for adjustment of grid parameters (Pull request [#80][80]).
 
 ## The future
 We are working on making Amazium better than ever and will be updating the support website very soon so keep an eye out, until next time, Amazium team out!
