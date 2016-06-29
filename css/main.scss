@@ -47,6 +47,7 @@ $on-laptop:        800px;
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
+        "amazium-variables",
         "amazium-base",
         "amazium-grid",
         "layout",
