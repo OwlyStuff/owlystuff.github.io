@@ -1,0 +1,45 @@
+---
+layout: post
+title:  "Amazium 5 Release"
+date:   2017-03-01
+type: release
+release_version: 5.0.0
+intro: Amazium v5 is now available.
+---
+
+![Amazium 5](img/amazium5.png)
+
+Intro here...
+
+Download the new version now
+
+<https://github.com/OwlyStuff/amazium/releases/latest>
+
+or install it using NPM
+
+<https://github.com/OwlyStuff/amazium#install-amazium>
+
+### General
+ * Fonts - For v5 we have removed all font files as this kind of thing realy is up to you isn't it, default fonts are still ```san-serif``` but we no longer ships with Maven Pro.
+ * Resets - Updates include removing margins as they are now controled by the 
+ * Lobotomised Owl - For v5 we have changed how margins are added to elements by adding a simple ```&*``` selctor to many of the standard typography elements like p, ol, ul, blockquotes ect.
+ * Typography - We have changed the mesurment used for ```font-size``` & ```line-height``` to use em rather than px. You still set your global font size in px but everywhere else after will use em.
+
+
+### Grid
+ * 
+
+### Forms
+ * 
+
+### Buttons
+ * 
+
+## The future
+We are working on making Amazium better than ever and will be updating the support website very soon so keep an eye out, until next time, Amazium team out!
+
+[62]: https://github.com/OwlyStuff/amazium/pull/62
+[63]: https://github.com/OwlyStuff/amazium/pull/63
+[64]: https://github.com/OwlyStuff/amazium/pull/64
+[68]: https://github.com/OwlyStuff/amazium/pull/68
+[80]: https://github.com/OwlyStuff/amazium/pull/80
